@@ -1,0 +1,65 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "movieName": "RRR",
+        "Date": "Mon,19April",
+        "Time": "7:30pm",
+        "noOftickets": "2",
+        "price": "200",
+        "InstaId": "akii123",
+        "address": "123 Main Street"
+      },
+      {
+        "id": 2,
+        "movieName": "Avatar",
+        "Date": "Mon,25April",
+        "Time": "8:30am",
+        "noOftickets": "4",
+        "price": "300",
+        "InstaId": "akii123",
+        "address": "456 Elm Street"
+      },
+      {
+        "id": 3,
+        "movieName": "Inception",
+        "Date": "Wed,27April",
+        "Time": "3:00pm",
+        "noOftickets": "3",
+        "price": "250",
+        "InstaId": "akii123",
+        "address": "789 Oak Street"
+      },
+      {
+        "id": 4,
+        "movieName": "The Dark Knight",
+        "Date": "Fri,29April",
+        "Time": "6:45pm",
+        "noOftickets": "2",
+        "price": "180",
+        "InstaId": "akii123",
+        "address": "321 Pine Street"
+      },
+      {
+        "id": 5,
+        "movieName": "Interstellar",
+        "Date": "Sun,1May",
+        "Time": "1:30pm",
+        "noOftickets": "5",
+        "price": "350",
+        "InstaId": "akii123",
+        "address": "654 Maple Street"
+      },
+      {
+        "id": 6,
+        "movieName": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Date": "Tue,3May",
+        "Time": "5:00pm",
+        "noOftickets": "3",
+        "price": "270",
+        "InstaId": "akii123",
+        "address": "987 Cedar Street"
+      }
+    ]
+  }
+  
